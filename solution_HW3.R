@@ -1,5 +1,5 @@
 ###load dataset
-#load "nhis.RData"
+load("nhis.RData")
 
 ###inspect variables
 summary(nhis)

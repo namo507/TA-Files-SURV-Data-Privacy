@@ -68,7 +68,7 @@ nrow(nhis)/8
 ###Exercise 10
 
 ###load dataset
-#load "cps5000.RData"
+load("cps5000.RData")
 
 ###transform data
 org.data<-cps
